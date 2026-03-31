@@ -1,5 +1,7 @@
 # Smart To-Do List (Java)
 
+##ADITYA MISHRA (24BAI10974)
+
 ## Problem
 Students often struggle to manage tasks, deadlines, and priorities effectively, leading to poor time management and missed deadlines.
 
